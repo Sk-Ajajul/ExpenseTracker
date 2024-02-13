@@ -1,0 +1,7 @@
+
+
+@keyframes App-log-spin{
+  from{
+   transform: rotate(0deg);
+  }
+}

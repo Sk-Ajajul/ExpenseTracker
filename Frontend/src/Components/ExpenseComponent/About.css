@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.page-head{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/010/881/664/original/education-people-person-book-illustration-concept-business-background-character-school-student-knowledge-learning-web-library-reading-group-training-course-banner-graduation-class-vector.jpg);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position:right;
+    min-height: 85vh;
+    display: flex;
+    justify-content:flex-start;
+    align-items:center;
+}
+
+.head-text{
+    color: rgb(47, 47, 233);
+    width: 30%;
+    text-align: center;
+    margin-top: 80px;
+    font-size: 4rem;
+    font-weight: 500;
+    padding-left: 40px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.easier{
+    font-size: 6rem;
+    font-weight: 800;
+}
+
+.about-text{
+    margin: 5% 10%;
+    text-align: justify;
+    font-size: larger;
+    line-height: 2;
+}
+
+.foot{
+    background-color: #333;
+    height: 200px;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0px;
+}
+
+h5{
+    margin-bottom: 0px;
+}

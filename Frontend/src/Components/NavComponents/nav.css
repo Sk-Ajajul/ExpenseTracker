@@ -1,0 +1,39 @@
+
+
+.logo2{
+    width: 70px;
+    float: right;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-right:14px;
+    margin-left: 2px;
+  
+  }
+  .logo1{
+    width: 70px;
+    float: left;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-right: 70px;
+    margin-left: 7px;
+  }
+  
+  .logo3{
+    width: 70px;
+    float: left;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-right:14px;
+    margin-left: -20px;
+  }
+
+  
+.nav-ul{
+  padding: 2px;
+  margin:0px;
+  background-color: skyblue;
+}
+
+.nav-ul h1{
+  text-align: center ;
+}
